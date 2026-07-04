@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.button{
+  font-size: 24px;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.button.one{
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+.button.two{
+  background-color: rgb(253, 238, 66);
+}
